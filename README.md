@@ -18,5 +18,3 @@ I will document solutions to problems that I solved on BFE with the following st
 - Code walkthrough (if applicable)
 - Resources/credits (if any)
 - [Twitter handle](https://twitter.com/knowkalpesh)
-
-Tags: Amazon, Facebook, Google, interviews, Javascript, problem-solving, questions
